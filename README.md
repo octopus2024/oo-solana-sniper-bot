@@ -43,7 +43,7 @@ First step:
 >
 > [1] ```git clone https://github.com/SoaRSniperBot/solana-sniper-bot```
 > 
->[2] ```cd solana-sniper-bot```
+>[2] ```cd solana-sniper-bot-main```
 > 
 >[3] ```npm install```
 >
