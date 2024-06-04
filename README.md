@@ -5,9 +5,6 @@
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![](https://img.shields.io/badge/soar-sniper_bot-blue)
 ![UPTime](https://camo.githubusercontent.com/4a67ad96d71cca235a4393b2f3b79aabb0a3d42d555030632f1110e9eedde567/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e)
-[![GitHub forks](https://img.shields.io/github/forks/soarsniper/solana-sniper-bot.js.svg?style=social&label=Fork&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/network/)
-[![GitHub stars](https://img.shields.io/github/stars/soarsniper/solana-sniper-bot.js.svg?style=social&label=Star&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/stargazers/)
-[![GitHub watchers](https://img.shields.io/github/watchers/soarsniper/solana-sniper-bot.js.svg?style=social&label=Watch&maxAge=2000)](https://GitHub.com/soarsniper/solana-sniper-bot.js/watchers/)
 [![GitHub License](https://img.shields.io/badge/license-mit.svg)](https://raw.githubusercontent.com/link/main/LICENSE.md)
 
 
@@ -44,7 +41,7 @@ First step:
 > # Installation 🔗
 >
 >
-> [1] ```git clone https://github.com/soarsniper/solana-sniper-bot```
+> [1] ```git clone https://github.com/SoaRSniperBot/solana-sniper-bot```
 > 
 >[2] ```cd solana-sniper-bot```
 > 
